@@ -2,9 +2,7 @@
 
 ### Hey 👋 
 
-I am a General Partner at venture firm Runa Capital, where I focus on investing in early-stage startups building OSS, dev-focused, and infrastructure software. My favorite areas of next-gen infra include data, AI/ML, cloud, security, observability, and enterprise suites (like CRM and ERP). As a VC and a philanthropist, I am strongly interested in Open Source, and I take it seriously.
-
-Some open source startups we invested in:
+I am a General Partner at venture firm Runa Capital, where I focus on investing in early-stage startups building OSS, dev-focused, and infrastructure software. My favorite areas of next-gen infra include data, AI/ML, cloud, security, observability, and enterprise suites (like CRM and ERP). Some open source startups we invested in:
 
 * [Nginx](https://github.com/nginx/nginx), the most popular web server in the world (exited in 2019)
 * [MariaDB](https://github.com/MariaDB/server), relational database founded by MySQL's creator (exited in 2024)
@@ -15,3 +13,5 @@ Some open source startups we invested in:
 * [Evidently](https://github.com/evidentlyai/evidently), the most popular observability framework for ML models
 
 Since 2020, I have been publishing the [Runa Open Source Startup (ROSS) Index](https://runacap.com/ross-index/), where we highlight the top 20 trending open source startups (by GitHub star growth) every quarter.
+
+As a VC and a philanthropist, I am strongly interested in Open Source, and I take it seriously.
