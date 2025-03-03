@@ -9,8 +9,8 @@ I am a General Partner at venture firm Runa Capital, where I focus on investing 
 * [Twenty](https://github.com/twentyhq/twenty), next-gen CRM platform, open-source alternative to Salesforce ([thesis](https://kvinogradov.com/twenty/))
 * [Keep](https://github.com/keephq/keep), next-gen alert management and AIOps platform for enterprises ([thesis](https://kvinogradov.com/keep/))
 * [OpenReplay](https://github.com/openreplay/openreplay/), session replay and product analytics suite
-* [PandasAI](https://github.com/Sinaptik-AI/pandas-ai), platform to query your data in natural language
-* [Evidently](https://github.com/evidentlyai/evidently), the most popular observability framework for ML models
+* [Pandas AI](https://github.com/Sinaptik-AI/pandas-ai), platform to query your data in natural language
+* [Evidently AI](https://github.com/evidentlyai/evidently), the most popular observability framework for ML models
 
 Since 2020, I have been publishing the [Runa Open Source Startup (ROSS) Index](https://runacap.com/ross-index/), where we highlight the top 20 trending open source startups (by GitHub star growth) every quarter.
 
