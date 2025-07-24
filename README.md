@@ -6,8 +6,9 @@ I am a General Partner at venture firm Runa Capital, where I focus on investing 
 
 * [Nginx](https://github.com/nginx/nginx), the most popular web server in the world (exited in 2019)
 * [MariaDB](https://github.com/MariaDB/server), relational database founded by MySQL's creator (exited in 2024)
+* [N8N](https://github.com/n8n-io/n8n), workflow automation platform with native AI capabilities
 * [Twenty](https://github.com/twentyhq/twenty), next-gen CRM platform, open-source alternative to Salesforce ([thesis](https://kvinogradov.com/twenty/))
-* [Keep](https://github.com/keephq/keep), next-gen alert management and AIOps platform for enterprises ([thesis](https://kvinogradov.com/keep/))
+* [Keep](https://github.com/keephq/keep), next-gen alert management and AIOps platform for enterprises ([thesis](https://kvinogradov.com/keep/), exited in 2025)
 * [OpenReplay](https://github.com/openreplay/openreplay/), session replay and product analytics suite
 * [Pandas AI](https://github.com/Sinaptik-AI/pandas-ai), platform to query your data in natural language
 * [Evidently AI](https://github.com/evidentlyai/evidently), the most popular observability framework for ML models
