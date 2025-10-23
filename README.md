@@ -14,6 +14,6 @@ I am a General Partner at venture firm Runa Capital, where I focus on investing 
 * [Pandas AI](https://github.com/Sinaptik-AI/pandas-ai), platform to query your data in natural language
 * [Evidently AI](https://github.com/evidentlyai/evidently), the most popular observability framework for ML models
 
-Since 2020, I have been publishing the [Runa Open Source Startup (ROSS) Index](https://runacap.com/ross-index/), where we highlight the top 20 trending open source startups (by GitHub star growth) every quarter. Also, we created and have been maintaining an awesome list of [open-source alternatives to the most popular SaaS](https://github.com/RunaCapital/awesome-oss-alternatives) <img src="https://img.shields.io/github/stars/RunaCapital/awesome-oss-alternatives?style=social"/>
+Since 2020, I have been publishing the [Runa Open Source Startup (ROSS) Index](https://github.com/RunaCapital/ROSS-Index), where we highlight the top 20 trending open source startups (by GitHub star growth) every quarter. Also, we created and have been maintaining an awesome list of [open-source alternatives to the most popular SaaS](https://github.com/RunaCapital/awesome-oss-alternatives) <img src="https://img.shields.io/github/stars/RunaCapital/awesome-oss-alternatives?style=social"/>
 
 As a VC and a philanthropist, I am strongly interested in Open Source, and I take it seriously.
