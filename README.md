@@ -16,10 +16,9 @@ Before that, I was a General Partner at Runa Capital, a VC firm which backed mor
 * [Pandas AI](https://github.com/Sinaptik-AI/pandas-ai): Open source businss intelligence platform to query data in natural language
 * [Evidently AI](https://github.com/evidentlyai/evidently): Leading open source observability framework for AI/ML models
 
-Besides investing, there are several open-source ecosystem projects which I ideated and have been built over the years, including:
+As a VC and a philanthropist, I am deeply interested in Open Source, and I take it seriously. Besides investing, there are several related projects that I ideated and have built over the years, including:
 
-* [Open Source Endowment](https://github.com/osendowment) (2025-now): The world's first endowment dedicated to OSS and enabling a new sustainable funding source for open source maintainers. It is a community nonprofit, supported by 50+ tech founders, open source creators, developers, etc.
+* [Open Source Endowment](https://github.com/osendowment) (2025-now): The world's first endowment dedicated to OSS and enabling a new sustainable funding source for open source maintainers. It is a community nonprofit, supported by 50+ founders, OSS creators, developers, etc.
 
-* [ROSS Index](https://github.com/RunaCapital/ROSS-Index) (2020-2025): A quarterly data-driven index of the top 20 trending open source startups, now maintained by Runa Capital.
+* [ROSS Index](https://github.com/RunaCapital/ROSS-Index) (2020-2025): A quarterly index of the top 20 trending open source startups, now maintained by Runa Capital.
 
-As a VC inevestor and a philanthropist, I am deeply interested in Open Source, and I take it seriously.
