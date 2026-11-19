@@ -6,10 +6,10 @@ I am an active angel investor specializing in open source, AI, and infrastructur
 
 Before that, I was a General Partner at Runa Capital, a VC firm which backed more than 100 B2B software and deep tech startups, including such open source companies as [N8N](https://github.com/n8n-io/n8n), [MariaDB](https://github.com/MariaDB/server), and [Nginx](https://github.com/nginx/nginx). Some of my OSS-related investments done personally or as a partner at Runa:
 
+* [Higgsfield](https://github.com/higgsfield-ai/higgsfield): AI video and image generation models and apps
 * [Mastra](https://github.com/mastra-ai/mastra): Leading open source TypeScript AI agent framework
 * [White Circle](https://github.com/whitecircle-ai): AI guardrails and red-teaming platform for businesses (especially, AI code gen!)
 * [Twenty](https://github.com/twentyhq/twenty): Leading open source CRM platform, an alternative to Salesforce
-* [Higgsfield](https://github.com/higgsfield-ai/higgsfield): AI video and image generation models and apps
 * [Keep](https://github.com/keephq/keep): Open source alert management and AIOps platform (acquired by Elastic)
 * [Sidekick](http://meetsidekick.com): Work-focused browser based on [Chromium](https://github.com/chromium/chromium) (acquired by Perplexity)
 * [OpenReplay](https://github.com/openreplay/openreplay/): Open source session replay and product analytics suite
